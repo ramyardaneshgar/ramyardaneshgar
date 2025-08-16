@@ -6,8 +6,6 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 
 <hr/>
 
-See some of my work: 
-
 ## Vulnerability Management 
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
