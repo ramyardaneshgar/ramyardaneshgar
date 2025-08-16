@@ -4,6 +4,11 @@ I'm a privacy-focused cybersecurity professional with a strong technical foundat
 
 Hold Masters in Cybersecurity Engineering from University of Southern California and a Bachelors in Computer Science from Florida International University.
 
+<hr/>
+
+## 🤳 Connect With Me
+
+ramyarda@usc.edu 
 
 
 ## Vulnerability Management 
@@ -16,7 +21,3 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 <hr/>
-
-## 🤳 Connect With Me
-
-ramyarda@usc.edu 
