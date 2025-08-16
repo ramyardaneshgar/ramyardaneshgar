@@ -17,7 +17,7 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 
 <hr/>
 
-# Skills 
+## Skills 
 
 ## <code>Compliance Frameworks & Documentation</code>
 
