@@ -17,10 +17,9 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 
 <hr/>
 
-## 🤳 Connect With Me
-ramyarda@usc.edu 
+# Skills 
 
-## <code>COMPLIANCE FRAMEWORKS & DOCUMENTATION</code>
+## <code>Compliance Frameworks & Documentation</code>
 
 ![NIST 800-53](https://img.shields.io/badge/-NIST_800--53/171-003366?style=flat-square&logo=nist)
 ![NIST 800-37](https://img.shields.io/badge/-NIST_800--37-003366?style=flat-square&logo=nist)
@@ -39,7 +38,7 @@ ramyarda@usc.edu
 
 ---
 
-## <code>TOOLS & SYSTEMS</code>
+## <code>Tools & Systems</code>
 
 ![Tenable.io](https://img.shields.io/badge/-Tenable.io-242B75?style=flat-square&logo=Tenable)
 ![Microsoft Defender](https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-1087da?style=flat-square&logo=MicrosoftDefender)
@@ -67,7 +66,7 @@ ramyarda@usc.edu
 
 ---
 
-## <code>SCRIPTING & AUTOMATION</code>
+## <code>Scripting & Automation</code>
 
 ![KQL](https://img.shields.io/badge/-KQL-36336e?style=flat-square&logo=KQL)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -84,7 +83,7 @@ ramyarda@usc.edu
 
 ---
 
-## <code>CROSS-FUNCTIONAL COLLABORATION</code>
+## <code>Cros-Functional Collaboration</code>
 
 Worked directly with legal, security, and IT teams to support:  
 - Policy development  
@@ -95,3 +94,5 @@ Worked directly with legal, security, and IT teams to support:
 - Secure configurations  
 - Remediation efforts tailored to regulatory and business needs  
 
+## 🤳 Connect With Me
+ramyarda@usc.edu 
