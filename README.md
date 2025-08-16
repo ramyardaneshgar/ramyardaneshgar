@@ -6,12 +6,12 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 
 
 
-## ⚠️ Vulnerability Management Projects
+## Vulnerability Management 
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operations
+## Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
@@ -19,16 +19,4 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="ramyarda@usc.edu>][email]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.linkedin.com/in/ramyardaneshgar/)" />][linkedin]
-
-
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+ramyarda@usc.edu 
