@@ -18,5 +18,4 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 <hr/>
 
 ## 🤳 Connect With Me
-
 ramyarda@usc.edu 
