@@ -18,13 +18,13 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 
 ---
 
-## 🔎 Vulnerability Management & Continuous Monitoring
+##  Vulnerability Management & Continuous Monitoring
 - [Vulnerability-Management-Program](https://github.com/ramyardaneshgar/Vulnerability-Management-Program) – PowerShell-driven vulnerability management program with remediation tracking.  
 - [OpenVas](https://github.com/ramyardaneshgar/OpenVas) – Enterprise-grade scanning and continuous monitoring using OpenVAS/GVM.  
 
 ---
 
-## 🕵️ Threat Hunting & Detection Engineering
+##  Threat Hunting & Detection Engineering
 - [TacticalDetection](https://github.com/ramyardaneshgar/TacticalDetection) – Sigma rules, tripwires, and purple teaming for IOC/IOA detection.  
 - [DetectionEngineering](https://github.com/ramyardaneshgar/DetectionEngineering) – Suspicious PowerShell detection with Palantir ADS framework.  
 - [Sigma](https://github.com/ramyardaneshgar/Sigma) – Custom rules for malware, ransomware, and LOLBins.  
@@ -38,7 +38,7 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 
 ---
 
-## 🛡️ Security Operations & Incident Response (SOC/IR)
+##  Security Operations & Incident Response (SOC/IR)
 - [SOAR](https://github.com/ramyardaneshgar/SOAR) – Automated response workflows for phishing, CVEs, and IR.  
 - [Incident-Handling-Splunk](https://github.com/ramyardaneshgar/Incident-Handling-Splunk) – Incident workflows with Splunk, Suricata, Sysmon, ATT&CK.  
 - [IR-Preparation](https://github.com/ramyardaneshgar/IR-Preparation) – Forensic readiness with Sysmon, Atomic Red Team, FTK.  
@@ -48,7 +48,7 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 
 ---
 
-## 🌐 Reconnaissance & Attack Surface Management
+##  Reconnaissance & Attack Surface Management
 - [VirtualHosts](https://github.com/ramyardaneshgar/VirtualHosts) – Hidden subdomain discovery with Gobuster.  
 - [Fingerprinting](https://github.com/ramyardaneshgar/Fingerprinting) – OS/CMS fingerprinting with Nmap, curl, WhatWeb.  
 - [MetadataAnalysis](https://github.com/ramyardaneshgar/MetadataAnalysis) – Reconnaissance with Scrapy, curl, jq.  
@@ -57,7 +57,7 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 
 ---
 
-## 🏗️ Web Application Security (AppSec)
+##  Web Application Security (AppSec)
 - [CrossSiteScripting](https://github.com/ramyardaneshgar/CrossSiteScripting) – XSS payloads and mitigations (CSP, sanitization).  
 - [SQLInjection](https://github.com/ramyardaneshgar/SQLInjection) – SQLi exploitation and mitigations.  
 - [SQLMAP](https://github.com/ramyardaneshgar/SQLMAP) – SQLMap exploitation with payload tuning.  
@@ -76,7 +76,7 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 
 ---
 
-## 📊 Security Monitoring, Logging & Digital Forensics
+##  Security Monitoring, Logging & Digital Forensics
 - [Logging](https://github.com/ramyardaneshgar/Logging) – Syslog, logrotate, and CLI monitoring.  
 - [LogAnalysis](https://github.com/ramyardaneshgar/LogAnalysis) – Log anomaly detection with Sigma, YARA, regex.  
 - [Splunk-SLP](https://github.com/ramyardaneshgar/Splunk-SLP) – SPL queries for log parsing/filtering.  
@@ -95,7 +95,7 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 
 ---
 
-## 🎯 Adversary Emulation & Privilege Escalation
+##  Adversary Emulation & Privilege Escalation
 - [Linux-Privilege-Escalation](https://github.com/ramyardaneshgar/Linux-Privilege-Escalation) – Exploiting SUID, cron jobs, kernel vulns.  
 - [Windows-Privilege-Escalation](https://github.com/ramyardaneshgar/Windows-Privilege-Escalation) – Escalation with winPEAS, AccessChk, secretsdump.  
 - [LinuxAgency](https://github.com/ramyardaneshgar/LinuxAgency) – GTFOBins, TTY stabilization, user enumeration.  
@@ -107,7 +107,7 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 
 ---
 
-## 🌐 Network Security & Protocol Analysis
+##  Network Security & Protocol Analysis
 - [NetworkServices](https://github.com/ramyardaneshgar/NetworkServices) – SMB/FTP/SSH enumeration and SUID escalation.  
 - [Networking](https://github.com/ramyardaneshgar/Networking) – OSI/TCP-IP fundamentals and protocol analysis.  
 - [NetworkingProtocols](https://github.com/ramyardaneshgar/NetworkingProtocols) – DHCP, ARP, ICMP, NAT with tcpdump/Wireshark.  
@@ -129,23 +129,11 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 
 ---
 
-## ⚖️ Governance, Risk & Compliance (GRC)
+##  Governance, Risk & Compliance (GRC)
 - [Mock-Cross-Border-Data-Transfer-Compliance-Documentation](https://github.com/ramyardaneshgar/Mock-Cross-Border-Data-Transfer-Compliance-Documentation) – SCCs, TIAs, BCRs, and data localization docs.  
 - [Mock-VendorSecurityRiskAssessmentReport](https://github.com/ramyardaneshgar/Mock-VendorSecurityRiskAssessmentReport) – Vendor due diligence framework for GDPR/CCPA.  
 
 ---
-
-
----
-
-## ⚖️ Governance, Risk & Compliance (GRC)
-
-* [Mock-Cross-Border-Data-Transfer-Compliance-Documentation](https://github.com/ramyardaneshgar/Mock-Cross-Border-Data-Transfer-Compliance-Documentation) – Mock Cross Border Data Transfer Compliance Documentation with SCCs, TIAs, BCRs, and data localization.
-* [Mock-VendorSecurityRiskAssessmentReport](https://github.com/ramyardaneshgar/Mock-VendorSecurityRiskAssessmentReport) – A risk-based vendor due diligence framework for evaluating data processors against GDPR, CCPA, and security control requirements using standardized compliance assessment methodology.
-
----
-
-
 
 <hr/>
 
