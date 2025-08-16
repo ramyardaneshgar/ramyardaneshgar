@@ -6,10 +6,7 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 
 <hr/>
 
-## 🤳 Connect With Me
-
-ramyarda@usc.edu 
-
+See some of my work: 
 
 ## Vulnerability Management 
 
@@ -21,3 +18,7 @@ ramyarda@usc.edu
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 <hr/>
+
+## 🤳 Connect With Me
+
+ramyarda@usc.edu 
