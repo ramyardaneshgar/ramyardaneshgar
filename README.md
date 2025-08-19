@@ -6,16 +6,6 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 
 <hr/>
 
-## Vulnerability Management 
-
-- **[Vulnerability Management Program Implementation](https://github.com/ramyardaneshgar/Vulnerability-Management-Program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-
-## Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-
-
 ---
 
 ##  Vulnerability Management & Continuous Monitoring
