@@ -191,7 +191,7 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 
 ---
 
-## <code>Cros-Functional Collaboration</code>
+## <code>Cross-Functional Collaboration</code>
 
 Worked directly with legal, security, and IT teams to support:  
 - Policy development  
