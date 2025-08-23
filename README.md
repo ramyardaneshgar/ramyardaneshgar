@@ -13,6 +13,7 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 ---
 
 ##  Threat Hunting & Detection Engineering
+- [Threat-Hunting-Scenario-Tor](https://github.com/ramyardaneshgar/threat-hunting-scenario-tor) – End-to-end threat hunting lab simulating unauthorized TOR browser usage, with Defender for Endpoint and KQL queries for detection.  
 - [TacticalDetection](https://github.com/ramyardaneshgar/TacticalDetection) – Sigma rules, tripwires, and purple teaming for IOC/IOA detection.  
 - [DetectionEngineering](https://github.com/ramyardaneshgar/DetectionEngineering) – Suspicious PowerShell detection with Palantir ADS framework.  
 - [Sigma](https://github.com/ramyardaneshgar/Sigma) – Custom rules for malware, ransomware, and LOLBins.  
