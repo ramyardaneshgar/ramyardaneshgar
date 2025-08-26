@@ -9,7 +9,7 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 ##  Vulnerability Management & Continuous Monitoring
 - [Vulnerability-Management-Program](https://github.com/ramyardaneshgar/Vulnerability-Management-Program) – PowerShell-driven vulnerability management program with remediation tracking.  
 - [OpenVas](https://github.com/ramyardaneshgar/OpenVas) – Enterprise-grade scanning and continuous monitoring using OpenVAS/GVM.
-- [STIG-WN10-AU-000500](https://github.com/ramyardaneshgar/STIG-WN10-AU-000500) – PowerShell fix for STIG WN10-AU-000500 enforcing 32MB Application Event Log size.  
+- [STIG-WN10-AU-000500](https://github.com/ramyardaneshgar/STIGS) – PowerShell fix for STIG WN10-AU-000500 enforcing 32MB Application Event Log size.  
 
 ---
 
