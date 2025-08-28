@@ -14,7 +14,7 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 ---
 
 ##  Threat Hunting & Detection Engineering
-- [Threat-Hunting-Scenario-Tor](https://github.com/ramyardaneshgar/threat-hunting-scenario-tor) – End-to-end threat hunting lab simulating unauthorized TOR browser usage, with Defender for Endpoint and KQL queries for detection.  
+- [Threat-Hunting-Scenario-Tor](https://github.com/ramyardaneshgar/threat-hunting-scenario-tor) – End-to-end threat hunting for unauthorized TOR browser usage, with Defender for Endpoint and KQL queries for detection.  
 - [TacticalDetection](https://github.com/ramyardaneshgar/TacticalDetection) – Sigma rules, tripwires, and purple teaming for IOC/IOA detection.  
 - [DetectionEngineering](https://github.com/ramyardaneshgar/DetectionEngineering) – Suspicious PowerShell detection with Palantir ADS framework.  
 - [Sigma](https://github.com/ramyardaneshgar/Sigma) – Custom rules for malware, ransomware, and LOLBins.  
@@ -70,7 +70,7 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 - [Logging](https://github.com/ramyardaneshgar/Logging) – Syslog, logrotate, and CLI monitoring.  
 - [LogAnalysis](https://github.com/ramyardaneshgar/LogAnalysis) – Log anomaly detection with Sigma, YARA, regex.  
 - [Splunk-SLP](https://github.com/ramyardaneshgar/Splunk-SLP) – SPL queries for log parsing/filtering.  
-- [Splunk-SettingUpSOCLab](https://github.com/ramyardaneshgar/Splunk-SettingUpSOCLab) – SOC lab setup with Splunk.  
+- [Splunk-SettingUpSOCLab](https://github.com/ramyardaneshgar/Splunk-SettingUpSOCLab) – SOC setup with Splunk.  
 - [Advanced-Splunk-Visualization](https://github.com/ramyardaneshgar/Advanced-Splunk-Visualization) – Dashboards and proactive alerting.  
 - [Splunk-Data-Manipulation](https://github.com/ramyardaneshgar/Splunk-Data-Manipulation) – Regex-based field extraction, PCI DSS masking.  
 - [Splunk-log-parsing-event-boundary-fixes-custom-field-extraction](https://github.com/ramyardaneshgar/Splunk-log-parsing-event-boundary-fixes-custom-field-extraction) – Event boundary fixes & custom extraction.  
