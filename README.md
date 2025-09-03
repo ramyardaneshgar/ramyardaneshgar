@@ -204,5 +204,5 @@ Worked directly with legal, security, and IT teams to support:
 - Secure configurations  
 - Remediation efforts tailored to regulatory and business needs  
 
-## 🤳 Connect With Me
+## Connect With Me
 ramyarda@usc.edu 
