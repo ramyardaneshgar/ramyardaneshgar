@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a privacy-focused cybersecurity professional with a strong technical foundation in risk management, incident response, and regulatory compliance. My experience spans translating complex privacy laws - like CCPA/CPRA, GDPR, GLBA, and HIPAA - into scalable, engineering-ready solutions across enterprise and defense environments. I’ve supported policy development, data governance, privacy-by-design, and other cybersecurity initiatives. 
+From the beginning of my career, I have been drawn to solving challenging problems through use of technology - problems where the stakes are high, the variables uncertain, and the outcomes carry real consequences for people and institutions. Over time, this drive has grown into a deep commitment to privacy: using technical expertise not only to advance innovation but to strengthen trust, resilience, and equity in the systems society depends on. View some of my work below, which reflects this commitment in action.
 
 Hold Masters in Cybersecurity Engineering from University of Southern California and a Bachelors in Computer Science from Florida International University.
 
