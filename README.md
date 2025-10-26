@@ -121,7 +121,8 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 
 ##  Governance, Risk & Compliance (GRC)
 - [Mock-Cross-Border-Data-Transfer-Compliance-Documentation](https://github.com/ramyardaneshgar/Mock-Cross-Border-Data-Transfer-Compliance-Documentation) – SCCs, TIAs, BCRs, and data localization docs.  
-- [Mock-VendorSecurityRiskAssessmentReport](https://github.com/ramyardaneshgar/Mock-VendorSecurityRiskAssessmentReport) – Vendor due diligence framework for GDPR/CCPA.  
+- [Mock-VendorSecurityRiskAssessmentReport](https://github.com/ramyardaneshgar/Mock-VendorSecurityRiskAssessmentReport) – Vendor due diligence framework for GDPR/CCPA.
+- [ThirdPartyRiskManagement](https://github.com/ramyardaneshgar/ThirdPartyRiskManagement) – Comprehensive third-party and supply chain risk management framework covering vendor assessments, SOC 2 / ISO 27001 alignment, TIAs, access governance, and continuous monitoring.  
 
 ---
 
