@@ -116,8 +116,7 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 - [Nmap-Post-Port-Scans](https://github.com/ramyardaneshgar/Nmap-Post-Port-Scans) – Service/OS enumeration with NSE.  
 - [Advanced-Nmap-host-discovery](https://github.com/ramyardaneshgar/Advanced-Nmap-host-discovery) – Stealth scans, fingerprinting, timing control.  
 - [Command-line-packet-forensics-using-Tcpdump](https://github.com/ramyardaneshgar/Command-line-packet-forensics-using-Tcpdump) – PCAP forensics with tcpdump.
-- [Network-Interface-Service-Enumeration-Workflow]([https://github.com/ramyardaneshgar/Command-line-packet-forensics-using-Tcpdump](https://github.com/ramyardaneshgar/Network-Interface-Service-Enumeration-Workflow/tree/main)) – Network interface analysis, routing validation, service binding assessment, and attack surface enumeration within segmented environments.
-
+- [Network-Interface-Service-Enumeration-Workflow](https://github.com/ramyardaneshgar/Network-Interface-Service-Enumeration-Workflow/tree/main)] – Network interface analysis, routing validation, service binding assessment.
 ---
 
 ##  Governance, Risk & Compliance (GRC)
