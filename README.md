@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-From the beginning of my career, I have been drawn to solving challenging problems through use of technology - problems where the stakes are high, the variables uncertain, and the outcomes carry real consequences for people and institutions. Over time, this drive has grown into a deep commitment to privacy: using technical expertise not only to advance innovation but to strengthen trust, resilience, and equity in the systems society depends on. View some of my work below, which reflects this commitment in action.
+Ever seen my teenage years, I have been drawn to solving challenging problems through use of technology - problems where the stakes are high, the variables uncertain, and the outcomes carry real consequences for people and institutions. Over time, this drive has grown into a deep commitment to security engineering: using technical expertise not only to advance innovation but to strengthen trust, resilience, and equity in the systems that millions of people around the world depends on. View some of my work below, which reflects this commitment in action.
 
-Hold Masters in Cybersecurity Engineering from University of Southern California and a Bachelors in Computer Science from Florida International University.
+Earned a masters in Cybersecurity Engineering from University of Southern California and a Bachelors in Computer Science from Florida International University.
 
 <hr/>
 
@@ -131,22 +131,90 @@ Hold Masters in Cybersecurity Engineering from University of Southern California
 
 ## Skills 
 
-## <code>Compliance Frameworks & Documentation</code>
 
-![NIST 800-53](https://img.shields.io/badge/-NIST_800--53/171-003366?style=flat-square&logo=nist)
-![NIST 800-37](https://img.shields.io/badge/-NIST_800--37-003366?style=flat-square&logo=nist)
-![NIST 800-40](https://img.shields.io/badge/-NIST_800--40-003366?style=flat-square&logo=nist)
-![NIST 800-61](https://img.shields.io/badge/-NIST_800--61-003366?style=flat-square&logo=nist)
-![NIST CSF](https://img.shields.io/badge/-NIST_CSF-003366?style=flat-square&logo=nist)
-![ISO 27001](https://img.shields.io/badge/-ISO_27001-2d7f5e?style=flat-square&logo=iso)
+## <code>Compliance Frameworks & Governance</code>
+
+### Security & Trust
 ![SOC 2](https://img.shields.io/badge/-SOC_2-333333?style=flat-square&logo=trustpilot)
-![HIPAA](https://img.shields.io/badge/-HIPAA-0072B1?style=flat-square&logo=hipaa)
-![CPRA](https://img.shields.io/badge/-CPRA-003B6F?style=flat-square&logo=law)
-![GDPR](https://img.shields.io/badge/-GDPR-0052cc?style=flat-square&logo=gdpr)
-![PCI DSS](https://img.shields.io/badge/-PCI_DSS-009879?style=flat-square&logo=visa)
-![RMF](https://img.shields.io/badge/-RMF-264653?style=flat-square&logo=gov)
-![DISA STIG](https://img.shields.io/badge/-DISA_STIG-4a148c?style=flat-square&logo=disa)
+![SOC 1](https://img.shields.io/badge/-SOC_1-444444?style=flat-square)
+![ISO 27001](https://img.shields.io/badge/-ISO_27001-2d7f5e?style=flat-square&logo=iso)
+![ISO 27002](https://img.shields.io/badge/-ISO_27002-2d7f5e?style=flat-square&logo=iso)
+![ISO 27017](https://img.shields.io/badge/-ISO_27017-2d7f5e?style=flat-square&logo=iso)
+![ISO 27018](https://img.shields.io/badge/-ISO_27018-2d7f5e?style=flat-square&logo=iso)
+![CSA STAR](https://img.shields.io/badge/-CSA_STAR-005792?style=flat-square)
+![NIST CSF](https://img.shields.io/badge/-NIST_CSF-003366?style=flat-square)
+![NIST CSF 2.0](https://img.shields.io/badge/-NIST_CSF_2.0-003366?style=flat-square)
+![CIS Controls](https://img.shields.io/badge/-CIS_Controls-004b87?style=flat-square)
 ![OWASP Top 10](https://img.shields.io/badge/-OWASP_Top_10-000000?style=flat-square&logo=owasp)
+
+### Government & Defense
+![CMMC](https://img.shields.io/badge/-CMMC-7B1113?style=flat-square)
+![FedRAMP](https://img.shields.io/badge/-FedRAMP-7B1113?style=flat-square)
+![NIST 800-53](https://img.shields.io/badge/-NIST_800--53-003366?style=flat-square)
+![NIST 800-171](https://img.shields.io/badge/-NIST_800--171-003366?style=flat-square)
+![NIST 800-37](https://img.shields.io/badge/-NIST_800--37-003366?style=flat-square)
+![NIST 800-40](https://img.shields.io/badge/-NIST_800--40-003366?style=flat-square)
+![NIST 800-61](https://img.shields.io/badge/-NIST_800--61-003366?style=flat-square)
+![RMF](https://img.shields.io/badge/-RMF-264653?style=flat-square)
+![DISA STIG](https://img.shields.io/badge/-DISA_STIG-4a148c?style=flat-square)
+![FISMA](https://img.shields.io/badge/-FISMA-5c2d91?style=flat-square)
+![DFARS](https://img.shields.io/badge/-DFARS-5c2d91?style=flat-square)
+![ITAR](https://img.shields.io/badge/-ITAR-5c2d91?style=flat-square)
+![StateRAMP](https://img.shields.io/badge/-StateRAMP-7B1113?style=flat-square)
+![TX-RAMP](https://img.shields.io/badge/-TX--RAMP-7B1113?style=flat-square)
+
+### Privacy & Data Protection
+![GDPR](https://img.shields.io/badge/-GDPR-0052cc?style=flat-square)
+![CCPA](https://img.shields.io/badge/-CCPA-003B6F?style=flat-square)
+![CPRA](https://img.shields.io/badge/-CPRA-003B6F?style=flat-square)
+![ISO 27701](https://img.shields.io/badge/-ISO_27701-00695c?style=flat-square)
+![LGPD](https://img.shields.io/badge/-LGPD-1e88e5?style=flat-square)
+![PIPEDA](https://img.shields.io/badge/-PIPEDA-c62828?style=flat-square)
+![PDPA](https://img.shields.io/badge/-PDPA-1565c0?style=flat-square)
+![POPIA](https://img.shields.io/badge/-POPIA-2e7d32?style=flat-square)
+
+### Healthcare & Life Sciences
+![HIPAA](https://img.shields.io/badge/-HIPAA-0072B1?style=flat-square)
+![HITECH](https://img.shields.io/badge/-HITECH-0072B1?style=flat-square)
+![HITRUST](https://img.shields.io/badge/-HITRUST_CSF-005f73?style=flat-square)
+![21 CFR Part 11](https://img.shields.io/badge/-21_CFR_Part_11-006064?style=flat-square)
+![MARS-E](https://img.shields.io/badge/-MARS--E-006064?style=flat-square)
+
+### Financial & Payment Security
+![PCI DSS](https://img.shields.io/badge/-PCI_DSS-009879?style=flat-square&logo=visa)
+![PCI PIN](https://img.shields.io/badge/-PCI_PIN-009879?style=flat-square)
+![PCI P2PE](https://img.shields.io/badge/-PCI_P2PE-009879?style=flat-square)
+![SOX](https://img.shields.io/badge/-SOX-37474f?style=flat-square)
+![GLBA](https://img.shields.io/badge/-GLBA-37474f?style=flat-square)
+![FFIEC](https://img.shields.io/badge/-FFIEC-37474f?style=flat-square)
+![NY DFS 500](https://img.shields.io/badge/-NY_DFS_500-1a237e?style=flat-square)
+
+### AI Governance & Emerging Technology
+![NIST AI RMF](https://img.shields.io/badge/-NIST_AI_RMF-512da8?style=flat-square)
+![ISO 42001](https://img.shields.io/badge/-ISO_42001-512da8?style=flat-square)
+![EU AI Act](https://img.shields.io/badge/-EU_AI_Act-283593?style=flat-square)
+![IEEE 7000](https://img.shields.io/badge/-IEEE_7000-1565c0?style=flat-square)
+![OECD AI Principles](https://img.shields.io/badge/-OECD_AI_Principles-0277bd?style=flat-square)
+
+### Automotive, Industrial & Manufacturing
+![ISO SAE 21434](https://img.shields.io/badge/-ISO/SAE_21434-455a64?style=flat-square)
+![UNECE WP.29](https://img.shields.io/badge/-UNECE_WP.29-455a64?style=flat-square)
+![TISAX](https://img.shields.io/badge/-TISAX-455a64?style=flat-square)
+![IEC 62443](https://img.shields.io/badge/-IEC_62443-6d4c41?style=flat-square)
+![NIST SP 800-82](https://img.shields.io/badge/-NIST_SP_800--82-6d4c41?style=flat-square)
+![ISO 9001](https://img.shields.io/badge/-ISO_9001-00897b?style=flat-square)
+![ISO 13485](https://img.shields.io/badge/-ISO_13485-00897b?style=flat-square)
+![AS9100](https://img.shields.io/badge/-AS9100-00897b?style=flat-square)
+![IATF 16949](https://img.shields.io/badge/-IATF_16949-00897b?style=flat-square)
+
+### International & Regional Compliance
+![Cyber Essentials](https://img.shields.io/badge/-Cyber_Essentials-3949ab?style=flat-square)
+![IRAP](https://img.shields.io/badge/-IRAP-3949ab?style=flat-square)
+![C5](https://img.shields.io/badge/-C5-3949ab?style=flat-square)
+![ENS](https://img.shields.io/badge/-ENS-3949ab?style=flat-square)
+![MTCS](https://img.shields.io/badge/-MTCS-3949ab?style=flat-square)
+![K-ISMS](https://img.shields.io/badge/-K--ISMS-3949ab?style=flat-square)
+![ISAE 3402](https://img.shields.io/badge/-ISAE_3402-3949ab?style=flat-square)
 
 ---
 
