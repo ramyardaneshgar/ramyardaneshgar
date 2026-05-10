@@ -222,6 +222,12 @@ Earned a Master’s degree in Cybersecurity Engineering from the University of S
 
 ## <code>Tools & Systems</code>
 
+![Vanta](https://img.shields.io/badge/-Vanta-000000?style=flat-square)
+![Drata](https://img.shields.io/badge/-Drata-4F46E5?style=flat-square)
+![LogicGate](https://img.shields.io/badge/-LogicGate-0F172A?style=flat-square)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence)
+
 ![Tenable.io](https://img.shields.io/badge/-Tenable.io-242B75?style=flat-square&logo=Tenable)
 ![Microsoft Defender](https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-1087da?style=flat-square&logo=MicrosoftDefender)
 ![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-5cb2f1?style=flat-square&logo=MicrosoftSentinel)
@@ -235,15 +241,16 @@ Earned a Master’s degree in Cybersecurity Engineering from the University of S
 ![Metasploit](https://img.shields.io/badge/-Metasploit-0277BD?style=flat-square&logo=metasploit)
 ![Nessus](https://img.shields.io/badge/-Nessus-009688?style=flat-square&logo=nessus)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=burp)
-![Cobalt Strike](https://img.shields.io/badge/-Cobalt_Strike-3F51B5?style=flat-square&logo=cobaltstrike)
-![Mimikatz](https://img.shields.io/badge/-Mimikatz-9C27B0?style=flat-square&logo=security)
-![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat-square&logo=nmap)
+![Cobalt Strike](https://img.shields.io/badge/-Cobalt_Strike-3F51B5?style=flat-square)
+![Mimikatz](https://img.shields.io/badge/-Mimikatz-9C27B0?style=flat-square)
+![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat-square)
 ![CrowdStrike Falcon](https://img.shields.io/badge/-CrowdStrike_Falcon-E41E26?style=flat-square&logo=crowdstrike)
-![YARA](https://img.shields.io/badge/-YARA-6A1B9A?style=flat-square&logo=yara)
-![Sysmon](https://img.shields.io/badge/-Sysmon-2A9D8F?style=flat-square&logo=windows)
+![YARA](https://img.shields.io/badge/-YARA-6A1B9A?style=flat-square)
+![Sysmon](https://img.shields.io/badge/-Sysmon-2A9D8F?style=flat-square)
 ![Azure NSG](https://img.shields.io/badge/-Azure_NSG/Firewall-0078D4?style=flat-square&logo=MicrosoftAzure)
-![AWS](https://img.shields.io/badge/-AWS-1d242e?style=flat-square&logo=AWS)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=MicrosoftAzure)
+
+![AWS](https://img.shields.io/badge/-AWS-1d242e?style=flat-square&logo=amazonaws)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud)
 
 ---
