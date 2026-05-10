@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-Ever seen my teenage years, I have been drawn to solving challenging problems through use of technology - problems where the stakes are high, the variables uncertain, and the outcomes carry real consequences for people and institutions. Over time, this drive has grown into a deep commitment to security engineering: using technical expertise not only to advance innovation but to strengthen trust, resilience, and equity in the systems that millions of people around the world depends on. View some of my work below, which reflects this commitment in action.
+Ever since my teenage years, I have been drawn to solving challenging problems through technology - problems where the stakes are high, the variables are uncertain, and the outcomes carry real consequences for people and institutions. Over time, this drive evolved into a deep commitment to security engineering: using technical expertise not only to advance innovation, but also to strengthen trust, resilience, and equity within the systems that millions of people around the world depend on.
 
-Earned a masters in Cybersecurity Engineering from University of Southern California and a Bachelors in Computer Science from Florida International University.
+View some of my work below, which reflects this commitment in action.
+
+Earned a Master’s degree in Cybersecurity Engineering from the University of Southern California and a Bachelor’s degree in Computer Science from Florida International University.
 
 <hr/>
 
