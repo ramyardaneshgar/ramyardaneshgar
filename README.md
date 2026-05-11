@@ -4,7 +4,7 @@ Ever since my teenage years, I have been drawn to solving challenging problems t
 
 View some of my work below, which reflects this commitment in action.
 
-## Credentials & Certifications
+## Education & Certifications 
 
 Earned a Master’s degree in Cybersecurity Engineering from the University of Southern California and a Bachelor’s degree in Computer Science from Florida International University.
 
