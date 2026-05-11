@@ -4,7 +4,12 @@ Ever since my teenage years, I have been drawn to solving challenging problems t
 
 View some of my work below, which reflects this commitment in action.
 
+## Credentials & Certifications
+
 Earned a Master’s degree in Cybersecurity Engineering from the University of Southern California and a Bachelor’s degree in Computer Science from Florida International University.
+
+[![CompTIA Security+ ce](https://img.shields.io/badge/-CompTIA_Security%2B_ce-EA3E23?style=flat-square&logo=comptia&logoColor=white)](https://www.credly.com/badges/66a0e3c6-d7a0-492a-a131-e6cf17617db8/public_url)
+[![ISO/IEC 27001:2022 Lead Auditor](https://img.shields.io/badge/-ISO%2FIEC_27001%3A2022_Lead_Auditor-2d7f5e?style=flat-square&logo=iso&logoColor=white)](https://www.credly.com/badges/85681d32-cf05-44f8-ae2d-504af252655f/public_url)
 
 <hr/>
 
